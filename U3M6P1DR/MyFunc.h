@@ -1,0 +1,11 @@
+void head(char mas[]);
+void yellow();
+void white();
+void red();
+void green();
+int f1(int m2=5, int m1=6, int m0=7);
+int f(int a);
+int f(int a, int b);
+int f(int a, int b, int c);
+void kat(double& a, double& b, double c, double q);
+void kat1(double* a, double* b, double c, double q);
